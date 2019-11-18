@@ -1,8 +1,9 @@
 # Getting Started
 
-## PROJECT		: Redistricting (Gerrymandering) Investigation
-## PURPOSE		: Investigate political redistricting using software models and algorithms
-## CONTEXT		: CS3250 Fall 2019
+### PROJECT		: Redistricting (Gerrymandering) Investigation
+### PURPOSE		: Investigate political redistricting using software models and algorithms
+### CONTEXT		: CS3250 Fall 2019
+
 ## TECHNOLOGIES	: 
 *   Code - Java
 *   Issue Tracking - Git
@@ -18,7 +19,7 @@
 [^1]: Ant is used to run the program
 
 ## SET UP COMMAND LINE
-###Step by Step with command line:
+### Step by Step with command line:
 {
 	$cd <file where you have build.xml>
 	$ant all[^2] 
