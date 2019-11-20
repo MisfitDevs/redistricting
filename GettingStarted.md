@@ -36,4 +36,4 @@ Step by Step with command line:
 	$ant all 
 	$cd build
 ```
-[**2**]: If "$ant all", does not work, "$ant -buildfile build.xml"
+### [**2**]: If "$ant all", does not work, "$ant -buildfile build.xml"
