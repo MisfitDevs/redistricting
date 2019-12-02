@@ -7,6 +7,7 @@ PURPOSE		: Investigate political redistricting using software models and algorit
 
 CONTEXT		: Software Development
 
+
 ## TECHNOLOGIES: 
 *   Coding Language - Java
 *   Issue Tracking - GitHub
